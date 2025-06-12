@@ -8,8 +8,6 @@ Soy estudiante de Informática Empresarial en la Universidad de Costa Rica. Me a
 - 🛢️ SQL Server, PostgreSQL, MySQL, MongoDB, Firebase
 - ⚙️ Docker, Git
 
-![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dylanbt2227&show_icons=true&theme=default)
-
 📫 Puedes contactarme:
 - Email: dylantorres2227@gmail.com
 - LinkedIn: [linkedin.com/in/DylanBastos](https://linkedin.com/in/DylanBastos)
