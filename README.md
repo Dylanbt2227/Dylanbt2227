@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hola, soy Dylan 👋
 
-<!--
-**Dylanbt2227/Dylanbt2227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Informática Empresarial en la Universidad de Costa Rica. Me apasiona el desarrollo de software y actualmente trabajo en proyectos de desarrollo web y móvil, tanto académicos como reales. Disfruto aprender nuevas tecnologías y resolver problemas a través del código.
 
-Here are some ideas to get you started:
+**Lenguajes y tecnologías:**
+- 💻 C#, JavaScript, Python, Java
+- 🌐 React, React Native, Node.js, Express, ASP.NET
+- 🛢️ SQL Server, PostgreSQL, MySQL, MongoDB, Firebase
+- ⚙️ Docker, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dylanbt2227&show_icons=true&theme=default)
+
+📫 Puedes contactarme:
+- Email: dylantorres2227@gmail.com
+- LinkedIn: [linkedin.com/in/DylanBastos](https://linkedin.com/in/DylanBastos)
