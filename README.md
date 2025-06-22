@@ -4,7 +4,7 @@ Soy estudiante de cuarto año de Informática Empresarial en la Universidad de C
 
 **Lenguajes y tecnologías:**
 - 💻 C#, JavaScript, Python, Java
-- 🌐 React, React Native, Node.js, Express, ASP.NET
+- 🌐 NextJs, React, React Native, Node.js, Express, ASP.NET
 - 🛢️ SQL Server, PostgreSQL, MySQL, MongoDB, Firebase
 - ⚙️ Docker, Git
 
