@@ -49,13 +49,6 @@ Me enfoco en <b>desarrollo web y móvil</b>, construyendo soluciones limpias, es
 
 ---
 
-<p align="center">
-  <!-- Stats: cuenta commits privados y evita rate limit -->
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=Dylanbt2227&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" />
-  <img height="165"
-       src="https://streak-stats.demolab.com?user=Dylanbt2227&theme=radical&date_format=j%20M%5B%20Y%5D" />
-</p>
 
 <p align="center">
   <img height="140"
