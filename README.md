@@ -49,15 +49,19 @@ Me enfoco en <b>desarrollo web y móvil</b>, construyendo soluciones limpias, es
 
 ---
 
-### 📊 Mis estadísticas
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dylanbt2227&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Dylanbt2227&theme=radical&date_format=j%20M%5B%20Y%5D" />
+  <!-- Stats: cuenta commits privados y evita rate limit -->
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=Dylanbt2227&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" />
+  <img height="165"
+       src="https://streak-stats.demolab.com?user=Dylanbt2227&theme=radical&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylanbt2227&layout=compact&theme=radical&langs_count=8&hide_progress=false" />
+  <img height="140"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylanbt2227&layout=compact&theme=radical&langs_count=8&hide_progress=false&cache_seconds=1800" />
 </p>
+
 
 <!-- Trofeos (opcional) -->
 <p align="center">
@@ -66,13 +70,7 @@ Me enfoco en <b>desarrollo web y móvil</b>, construyendo soluciones limpias, es
 
 ---
 
-### 🧩 Proyectos destacados
-<!-- Reemplaza los enlaces por tus repos reales -->
-- 📦 [Nombre-del-Proyecto-1](https://github.com/Dylanbt2227/) – breve descripción del objetivo e impacto.
-- 📱 [Nombre-del-Proyecto-2](https://github.com/Dylanbt2227/) – qué tecnologías usaste y el resultado.
-- 🧠 [Nombre-del-Proyecto-3](https://github.com/Dylanbt2227/) – problema que resolviste y aprendizaje clave.
 
----
 
 ### 📫 Contáctame
 - ✉️ **Email:** <dylantorres2227@gmail.com>  
