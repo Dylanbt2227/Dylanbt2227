@@ -44,17 +44,7 @@ Me enfoco en <b>desarrollo web y móvil</b>, construyendo soluciones limpias, es
 </p>
 
 ---
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=Dylanbt2227&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" />
-  <img height="165"
-       src="https://streak-stats.demolab.com?user=Dylanbt2227&theme=radical&date_format=j%20M%5B%20Y%5D" />
-</p>
 
-<p align="center">
-  <img height="140"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylanbt2227&layout=compact&theme=radical&langs_count=8&hide_progress=false&cache_seconds=1800" />
-</p>
 
 
 <p align="center">
@@ -63,9 +53,6 @@ Me enfoco en <b>desarrollo web y móvil</b>, construyendo soluciones limpias, es
 </p>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dylanbt2227&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</p>
 
 ---
 
